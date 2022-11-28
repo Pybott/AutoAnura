@@ -13,10 +13,10 @@
 
 
 <p align="center">
-  <img src="https://github.com/AM-ROBOTS/AdvAnurag/blob/main/assets/logo.jpg" alt="Anurag Logo">
+  <img src="https://github.com/Pybott/AdvAnurag/blob/main/assets/logo.jpg" alt="Anurag Logo">
 </p>
 <h1 align="center">
-  <b>ᎯℕUℛᎯᎶ</b>
+  <b>YOGESH</b>
 </h1>
 
 
@@ -81,7 +81,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <p>
 <br>
-<a href="https://heroku.com/deploy?template=https://github.com/AM-ROBOTS/AdvAnurag">
+<a href="https://heroku.com/deploy?template=https://github.com/Pybott/AdvAnurag">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
